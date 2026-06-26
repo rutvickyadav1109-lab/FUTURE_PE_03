@@ -1,0 +1,49 @@
+"Best Clothing Store in Boisar — Branded 
+Fashion for Men & Boys (Complete Guide)"
+Client: Maya Garments, Boisar, Maharashtra - 401501
+Type: Men + Boys clothing store
+(NO ladies wear, NO traditional wear)
+
+Brands available: US Polo, Ralph Lauren, Gant, 
+Snitch, Powerlook, Urban Monkey, Van Heusen, 
+Rare Rabbit, Zara, H&M and many more
+
+Collections: Men's Wear, Boys' Wear, Western Wear,
+Daily Casual, Sports/Activewear
+Price Range: Budget to Premium
+Target Audience: Men, boys, fathers, young adults 
+in Boisar
+
+I need to build an SEO content cluster strategy.
+
+First, create the PILLAR BLOG outline:
+
+Title: Best Clothing Store in Boisar — Branded 
+Fashion for Men & Boys (Complete Guide)
+Target keyword: "clothing store in Boisar"
+Search intent: Local commercial
+
+Provide:
+- H1 (main title with keyword)
+- 5-6 H2 subheadings covering the full topic
+- 2-3 H3 points under each H2
+- Meta description (150-160 characters)
+- Target word count (1000-1200 words)
+
+Then suggest 4 SUPPORTING BLOG topics that should 
+link back to this pillar blog, covering:
+- A brand/service-focused angle
+- A problem-specific angle (styling/how-to)
+- A location-based angle
+- A specific collection angle (sports/kids/western)
+
+For each supporting blog give:
+- Blog title with target keyword
+- Search intent (informational/commercial/local)
+- 1-line description of what it covers
+- How it links back to the pillar blog
+
+Rules:
+- Keywords should fit naturally, not stuffed
+- Mention Boisar naturally throughout
+- Focus on real questions people search
